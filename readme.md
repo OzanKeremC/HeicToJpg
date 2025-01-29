@@ -1,7 +1,9 @@
 ﻿
 # HEIC to JPEG and DNG to JPEG Photo Batch Conversion
 
-You can choose which format to convert. 
+#### Apple/Iphone image format conversion
+
+You can choose/change which format to convert from this section. 
 
 ```
 // Convert HEIC to JPEG
